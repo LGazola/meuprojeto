@@ -1,0 +1,21 @@
+.header {
+  background-color: #222;
+  padding: 20px;
+  width: 100%;
+  display: inline-block; }
+  .header .header-nav {
+    float: right; }
+    .header .header-nav ul {
+      list-style: none; }
+      .header .header-nav ul li {
+        display: inline-block;
+        margin: 10px;
+        font-family: Arial, Verdana, Tahoma; }
+
+.footer {
+  padding: 10px;
+  color: #ccc;
+  background: #222;
+  box-sizing: border-box; }
+
+/*# sourceMappingURL=style.css.map */

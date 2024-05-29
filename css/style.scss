@@ -1,0 +1,29 @@
+$primary: #222;
+$clear: #ccc;
+$font: Arial, Verdana, Tahoma;
+
+.header{
+    background-color:$primary ;
+    padding: 20px;
+    width: 100%;
+    display: inline-block;
+    .header-nav{
+        float:right;
+        ul{
+            list-style: none;
+            li{
+                display: inline-block;
+                margin:10px;
+                font-family: $font;
+            }
+        }
+    }
+
+}
+
+.footer{
+    padding: 10px;
+    color: $clear;
+    background: $primary;
+    box-sizing: border-box;
+}
