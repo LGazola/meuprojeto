@@ -7,17 +7,22 @@
     <title>Pagina Luiz</title>
     <link rel="stylesheet" href="css/style.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    
 </head>
 
 <body>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
-    <header class="header">
-    <nav class="navbar navbar-expand-lg bg-body-tertiary">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+    
+
+<header class="header">
+    <nav class="navbar navbar-expand-lg">
   <div class="container-fluid">
+  
   <a class="navbar-brand" href="index.php?pg=home">STorrent</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
+    
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
@@ -44,33 +49,6 @@
     </div>
   </div>
 </nav>
-        <!--<nav class="header-nav">
-            <ul>
-                <li>
-                    <a href="index.php">Home</a>
-                </li>
-                <li>
-                    <a href="index.php?pg=quemsomos">
-                        Quem somos
-                    </a>
-                </li>
-                <li>
-                    <a href="index.php?pg=equipe">
-                        Equipe
-                    </a>
-                </li>
-                <li>
-                    <a href="index.php?pg=contato">
-                        Entre em contato
-                    </a>
-                </li>
-                <li>
-                    <a href="index.php?pg=jogos">
-                        Jogos
-                    </a>
-                </li>
-            </ul>
-        </nav> -->
 
 
     </header>
