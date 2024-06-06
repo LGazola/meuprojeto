@@ -1,6 +1,12 @@
 $primary: #0d3b66;
 $clear: #ee964b;
+$body: #faf0ca;
 $font: Arial, Verdana, Tahoma;
+
+*{
+    box-sizing: border-box;
+}
+
 
 
 
@@ -12,9 +18,13 @@ $font: Arial, Verdana, Tahoma;
 
 }
 
+
+
 .footer{
     padding: 10px;
     color: $clear;
     background: $primary;
     box-sizing: border-box;
+    width: 100%;
 }
+

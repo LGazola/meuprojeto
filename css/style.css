@@ -1,3 +1,9 @@
+* {
+  box-sizing: border-box;
+}
+header{
+  width: 100%;
+}
 .header {
   background-color: #ee964b;
   width: 100%;
@@ -9,6 +15,32 @@
   color: #ee964b;
   background: #0d3b66;
   box-sizing: border-box;
+  width: 100%;
 }
+main{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  min-height: 100vh;
+}
+.carrosel{
+  box-shadow: 2px 2px 4px black;
+  overflow: hidden;
+  height: 500px;
+  width: 500px;
+}
+.container{
+  display: flex;
+  transition: transform 0.5s ease-in-out;
+  transform: translateX(0);
+}
+img{
+  object-fit: cover;
+  height: 500px;
+  width: 500px;
+}
+
+
 
 /*# sourceMappingURL=style.css.map */
