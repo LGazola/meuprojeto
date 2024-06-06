@@ -9,7 +9,26 @@ function carrosel(){
     if(idx > img.length - 1){
         idx=0
     }
-    imgs.style.transform = `translateX(${-idx * 500}px)`;
+    imgs.style.transform = `translateX(${-idx * 550}px)`;
+    
+}
+interval = setInterval(carrosel, 1800);
+
+document.getElementById('carrossel').addEventListener('mouseenter', stop);
+function stop(){
+    clearInterval(interval)
 }
 
-setInterval(carrosel, 1800);
+document.getElementById('carrossel').addEventListener('mouseleave',start);
+function start(){
+    interval = setInterval(carrosel, 1800)
+}
+
+
+
+
+
+
+
+       
+

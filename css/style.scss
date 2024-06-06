@@ -3,28 +3,35 @@ $clear: #ee964b;
 $body: #faf0ca;
 $font: Arial, Verdana, Tahoma;
 
-*{
+* {
     box-sizing: border-box;
 }
 
+.carrossel{
+    .container{
+        img:hover{
+            transform: scale(1.2);
+        }
+    }
+}
 
 
 
-.header{
+
+.header {
     background-color: $clear;
     width: 100%;
     display: inline-block;
-    
+
 
 }
 
 
 
-.footer{
+.footer {
     padding: 10px;
     color: $clear;
     background: $primary;
     box-sizing: border-box;
     width: 100%;
 }
-

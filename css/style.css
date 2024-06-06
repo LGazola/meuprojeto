@@ -1,9 +1,11 @@
 * {
   box-sizing: border-box;
 }
-header{
+
+header {
   width: 100%;
 }
+
 .header {
   background-color: #ee964b;
   width: 100%;
@@ -17,30 +19,54 @@ header{
   box-sizing: border-box;
   width: 100%;
 }
-main{
+
+main {
   display: flex;
   align-items: center;
   justify-content: center;
   margin: 0;
   min-height: 100vh;
 }
-.carrosel{
-  box-shadow: 2px 2px 4px black;
+
+.carrosel {
+  box-shadow: 5px 5px 10px  black;
+  justify-content: center;
   overflow: hidden;
-  height: 500px;
-  width: 500px;
+  height: 100%;
+  width: 100%;
+  
+  
+  
 }
-.container{
+.card{
+  text-align: center;
+  width: 100%;
+  padding-top: 20px;
+}
+
+.container {
   display: flex;
   transition: transform 0.5s ease-in-out;
   transform: translateX(0);
-}
-img{
-  object-fit: cover;
-  height: 500px;
-  width: 500px;
+  align-items: center;
 }
 
+
+img {
+  object-fit:cover;
+  height: fit-content;
+  width: 550px;
+}
+
+.carrosel .container img:hover{
+  transform: scale(1.2);
+}
+
+.content{
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+}
 
 
 /*# sourceMappingURL=style.css.map */
