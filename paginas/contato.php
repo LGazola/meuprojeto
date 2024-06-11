@@ -1,1 +1,13 @@
-<h1>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt illo id iure veniam mollitia. Animi, architecto, aliquid est nihil sit ab laborum sequi facere qui accusantium, placeat rerum maxime quasi.</h1>
+<main>
+<div class="center">
+<div class="form-floating mb-3">
+  <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com">
+  <label for="floatingInput">Email address</label>
+
+</div>
+<div class="form-floating">
+  <input type="password" class="form-control" id="floatingPassword" placeholder="Password">
+  <label for="floatingPassword">Password</label>
+</div>
+</div>
+</main>
