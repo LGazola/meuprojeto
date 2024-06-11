@@ -35,20 +35,19 @@
             <li class="nav-item">
               <a class="nav-link" href="index.php?pg=jogos">jogos</a>
             </li>
-
             <li class="nav-item dropdown">
-             
-                <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown"
-                  aria-expanded="false">
-                  Dropdown button
-                </button>
-              
-              <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                <a class="dropdown-item" href="index.php?pg=contato">Contato</a>
-                <a class="dropdown-item" href="index.php?pg=equipe">Equipe</a>
-                <a class="dropdown-item" href="index.php?pg=quemsomos">Quem somos</a>
-              </div>
-            </li>
+            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
+                aria-expanded="false">
+                Opções
+              </a>      
+        <ul class="dropdown-menu">
+                <li><a class="dropdown-item" href="index.php?pg=contato">Contato</a></li>
+                <li><a class="dropdown-item" href="index.php?pg=equipe">Equipe</a></li>
+                <li>
+                  <hr class="dropdown-divider">
+                </li>
+                <li><a class="dropdown-item" href="index.php?pg=quemsomos">Quem somos</a></li>
+              </ul>
 
             </li>
           </ul>
