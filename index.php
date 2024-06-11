@@ -8,11 +8,13 @@
   <link rel="stylesheet" href="css/style.css">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
     integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
-  <script src="script.js" defer>
+   <script src="script.js" defer></script>
 </head>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+  integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
 
-      <body>
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+<body>
+
 
 
   <header class="header">
@@ -26,26 +28,26 @@
         </button>
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
-          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+          <ul class="navbar-nav">
             <li class="nav-item">
               <a class="nav-link active" aria-current="page" href="index.php?pg=home">Home</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="index.php?pg=jogos">jogos</a>
             </li>
+
             <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
-                aria-expanded="false">
-                Opções
-              </a>
-              <ul class="dropdown-menu">
-                <li><a class="dropdown-item" href="index.php?pg=contato">Contato</a></li>
-                <li><a class="dropdown-item" href="index.php?pg=equipe">Equipe</a></li>
-                <li>
-                  <hr class="dropdown-divider">
-                </li>
-                <li><a class="dropdown-item" href="index.php?pg=quemsomos">Quem somos</a></li>
-              </ul>
+             
+                <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown"
+                  aria-expanded="false">
+                  Dropdown button
+                </button>
+              
+              <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                <a class="dropdown-item" href="index.php?pg=contato">Contato</a>
+                <a class="dropdown-item" href="index.php?pg=equipe">Equipe</a>
+                <a class="dropdown-item" href="index.php?pg=quemsomos">Quem somos</a>
+              </div>
             </li>
 
             </li>
@@ -77,6 +79,6 @@
 
   </footer>
 
-  </body>
+</body>
 
 </html>

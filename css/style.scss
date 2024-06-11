@@ -6,32 +6,93 @@ $font: Arial, Verdana, Tahoma;
 * {
     box-sizing: border-box;
 }
-
-.carrossel{
-    .container{
-        img:hover{
-            transform: scale(1.2);
-        }
-    }
-}
-
-
-
-
 .header {
     background-color: $clear;
     width: 100%;
-    display: inline-block;
-
-
+    
 }
-
-
-
 .footer {
     padding: 10px;
     color: $clear;
     background: $primary;
     box-sizing: border-box;
     width: 100%;
+}
+main {
+    display: block;
+    align-items: center;
+    justify-content: center;
+    
+    min-height: 100vh;
+    background-color: #faf0ca;
+  
+  }
+  
+  .carrosel {
+    box-shadow: 5px 5px 10px black;
+    justify-content: center;
+    overflow: hidden;
+    height: 100%;
+    width: 100%;
+    
+   padding-top: 50px;
+  
+  
+  }
+  
+  .card {
+    text-align: center;
+    width: 70%;
+    padding-top: 20px;
+    margin-left: 15%;
+    margin-right: 15%;
+  
+  
+  }
+  
+  .container {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+    transform: translateX(0);
+    align-items: center;
+    width: 10%;
+    
+  }
+  
+  
+  img {
+    object-fit: cover;
+    height: fit-content;
+    width: 550px;
+  }
+  
+  .carrosel .container img:hover {
+    transform: scale(1.2);
+  }
+  
+  .content {
+    display: block;
+    align-items: center;
+    margin-top: 20px;
+    position: center;
+    background-color: #faf0ca;
+    
+  }
+  .card-body{
+    background-color: #0d3b66;
+    
+  }
+  .card-text{
+    color: #ee964b;
+  }
+  .card-body h5{
+    color: #ee964b;
+  }
+  .card-header{
+ background-color: #ee964b !important;
+ color: $primary !important;
+  }
+
+.drop{
+  background-color: #ee964b;
 }

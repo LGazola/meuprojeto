@@ -35,6 +35,7 @@
 
         </div>
     </div>
+    <div class="content">
     <div class="card">
     <div class="card text-center">
   <div class="card-header">
@@ -43,10 +44,12 @@
   <div class="card-body">
     <h5 class="card-title">Descrição dos jogos</h5>
     <p class="card-text">saiba mais dos jogos antes de jogar, suas histórias, controles, mecânicas, etc.</p>
-    <a href="#" class="btn btn-primary">Jogos</a>
+    
+    <a href="index.php?pg=jogos" class="btn btn-primary">Jogos</a>
+
   </div>
   <div class="card-footer text-body-secondary">
-    
+    </div>
   </div>
 </div>
     </div>
