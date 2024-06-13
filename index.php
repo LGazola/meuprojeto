@@ -20,8 +20,10 @@
   <header class="header">
     <nav class="navbar navbar-expand-lg">
       <div class="container-fluid">
-
-        <a class="navbar-brand" href="index.php?pg=home">STorrent</a>
+        
+        <a class="navbar-brand" href="index.php?pg=home">
+        <img class="navbarimg" src="imagens/1logov2.png">
+        </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
           aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>

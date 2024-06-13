@@ -5,6 +5,14 @@
 .header {
   background-color: #ee964b;
   width: 100%;
+  position: fixed;
+  z-index: 1000;
+  
+}
+.navbarimg{
+  width: 60px;
+  display: inline-block;
+  padding-top: -20px;
 }
 
 .footer {
@@ -29,15 +37,18 @@ main {
   overflow: hidden;
   height: 100%;
   width: 100%;
-  padding-top: 50px;
+  padding-top: 100px;
+  position: relative;
+
 }
 
-.card {
+.card-h{
   text-align: center;
   width: 70%;
   padding-top: 20px;
   margin-left: 15%;
   margin-right: 15%;
+  background-color: #faf0ca;
 }
 
 .container {
@@ -46,22 +57,24 @@ main {
   transform: translateX(0);
   align-items: center;
   width: 10%;
+  
 }
 
 img {
   object-fit: cover;
   height: fit-content;
-  width: 550px;
+  width: 600px;
 }
 
 .carrosel .container img:hover {
   transform: scale(1.2);
+  transition: 0.8s;
 }
 
 .content {
   display: block;
   align-items: center;
-  margin-top: 20px;
+  padding-top: 30px;
   position: center;
   background-color: #faf0ca;
 }
@@ -71,11 +84,11 @@ img {
 }
 
 .card-text {
-  color: #ee964b;
+  color: white;
 }
 
 .card-body h5 {
-  color: #ee964b;
+  color: white;
 }
 
 .card-header {
@@ -92,6 +105,24 @@ img {
   padding-left: 15%;
   padding-right: 15%;
   padding-top: 15px;
+}
+.jogos-card{
+  
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.col{
+  padding-top: 25px;
+  padding-bottom: 10px;
+
+
+}
+
+.card-body .card-text button{
+  display: inline-block;
+}
+nav{
+  padding-top: 3px;
 }
 
 /*# sourceMappingURL=style.css.map */
