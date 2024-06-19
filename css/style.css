@@ -63,6 +63,8 @@ main {
   object-fit: cover;
   height: 550px;
   width: 1514px;
+  margin-left: -10px;
+  margin-right: 20px;
   
 }
 

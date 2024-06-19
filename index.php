@@ -35,7 +35,7 @@
               <a class="nav-link active" aria-current="page" href="index.php?pg=home">Home</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="index.php?pg=jogos">jogos</a>
+              <a class="nav-link" href="index.php?pg=jogos">Jogos</a>
             </li>
             <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
@@ -46,9 +46,7 @@
                 <li><a class="dropdown-item" href="index.php?pg=contato">Contato</a></li>
                 <li><a class="dropdown-item" href="index.php?pg=equipe">Equipe</a></li>
                 <li>
-                  <hr class="dropdown-divider">
-                </li>
-                <li><a class="dropdown-item" href="index.php?pg=quemsomos">Quem somos</a></li>
+                  
               </ul>
 
             </li>

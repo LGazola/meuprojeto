@@ -3,7 +3,7 @@
      <div class="carrosel" id="carrossel">
         <div class="container" id="img">
             <a href="https://open.spotify.com/user/22lkbi57gdgwd6j45sa7ncmla?si=sznv6mxASgeJ6gSc_GYfRQ" target="blank">
-                <img src="imagens/acabouchorare.jpeg" alt="Álbum">
+                <img src="jogos/bannerjogo.png" alt="Álbum">
             </a>
             <a href="https://open.spotify.com/user/22lkbi57gdgwd6j45sa7ncmla?si=sznv6mxASgeJ6gSc_GYfRQ" target="blank">
                 <img src="imagens/cartola1976.jpeg" alt="Álbum"></a>
