@@ -3,14 +3,14 @@
      <div class="carrosel" id="carrossel">
         <div class="container" id="img">
             <a href="https://open.spotify.com/user/22lkbi57gdgwd6j45sa7ncmla?si=sznv6mxASgeJ6gSc_GYfRQ" target="blank">
-                <img src="jogos/bannerjogo.png" alt="Álbum">
+                <img src="imagens/bannerjogo.png" alt="Space Soldier">
             </a>
             <a href="https://open.spotify.com/user/22lkbi57gdgwd6j45sa7ncmla?si=sznv6mxASgeJ6gSc_GYfRQ" target="blank">
-                <img src="imagens/cartola1976.jpeg" alt="Álbum"></a>
+                <img src="imagens/fase1.jpeg" alt="LeMinotaur"></a>
             <a href="https://open.spotify.com/user/22lkbi57gdgwd6j45sa7ncmla?si=sznv6mxASgeJ6gSc_GYfRQ" target="blank">
-                <img src="imagens/clubedaesquina.jpeg" alt="Álbum"></a>
+                <img src="imagens/headerlogo1.png" alt="Space Soldier"></a>
             <a href="https://open.spotify.com/user/22lkbi57gdgwd6j45sa7ncmla?si=sznv6mxASgeJ6gSc_GYfRQ" target="blank">
-                <img src="imagens/construcao.jpeg" alt="Álbum"></a>
+                <img src="imagens/fase2.jpeg" alt="LeMinotaur"></a>
             <a href="https://open.spotify.com/user/22lkbi57gdgwd6j45sa7ncmla?si=sznv6mxASgeJ6gSc_GYfRQ" target="blank">
                 <img src="imagens/courtofkingcrimson.jpeg" alt="Álbum"></a>
             <a href="https://open.spotify.com/user/22lkbi57gdgwd6j45sa7ncmla?si=sznv6mxASgeJ6gSc_GYfRQ" target="blank">

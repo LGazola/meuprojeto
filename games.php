@@ -5,9 +5,10 @@
 
     $game[1] = array(
         "id" => 1,
-        "title" => "Rocket On The Rocks",
-        "description" => "Ghost of Tsushima é um jogo de ação e aventura da Sucker Punch Productions, ambientado no Japão feudal durante a invasão mongol.",
-        "banner01" => "http://localhost/VaporStore_web/img/banners/banner_GhostOfTsushima.jpg",
+        "title" => "Space Soldier Survival",
+        "description" => "Space Soldier Surivival é um jogo de plataforma 2d cujo objetivo é a sobrevivência do nosso personagem, o Soldado Espacial. Após um pouso forçado em um planeta desconhecido ele terá que enfrentar alguns inimigos e outros obstaculos para conseguir seguir em frente com sua jornada. 
+        O jogo contem uma mecanica e um mapa muito simples mas é capaz de divertir e desafiar o jogador.",
+        "banner01" => "http://localhost/projetodois/imagens/bannerjogo.png",
         "banner02" => "http://localhost/VaporStore_web/img/banner_GhostOfTsushima.png",
         
         "screenShot01" => "img/gta-v.jpg",
