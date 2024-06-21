@@ -7,9 +7,9 @@
   width: 100%;
   position: fixed;
   z-index: 1000;
-  
 }
-.navbarimg{
+
+.navbarimg {
   width: 60px;
   display: inline-block;
   padding-top: -20px;
@@ -22,13 +22,16 @@
   box-sizing: border-box;
   width: 100%;
   text-align: center;
-  
 }
-.footer a{
-  color:#ee964b;
+
+.footer a {
+  color: #ee964b;
   text-decoration: none;
 }
 
+.footer a:hover {
+  color: #b8753b;
+}
 
 main {
   display: block;
@@ -45,10 +48,9 @@ main {
   width: 100%;
   padding-top: 100px;
   position: relative;
-
 }
 
-.card-h{
+.card-h {
   text-align: center;
   width: 70%;
   padding-top: 20px;
@@ -63,7 +65,6 @@ main {
   transform: translateX(0);
   align-items: center;
   width: 10%;
-  
 }
 
 .carrosel .container img {
@@ -72,7 +73,6 @@ main {
   width: 1514px;
   margin-left: -10px;
   margin-right: 20px;
-  
 }
 
 .carrosel .container img:hover {
@@ -92,11 +92,19 @@ main {
   background-color: #0d3b66;
 }
 
+.card-body-h {
+  background-color: #0d3b66;
+}
+
 .card-text {
   color: white;
 }
 
 .card-body h5 {
+  color: white;
+}
+
+.card-body-h h5 {
   color: white;
 }
 
@@ -115,44 +123,68 @@ main {
   padding-right: 15%;
   padding-top: 75px;
 }
-.jogos-card{
-  
+
+.jogos-card {
   padding-left: 20px;
   padding-right: 20px;
 }
-.col{
+
+.col {
   padding-top: 30px;
   padding-bottom: 10px;
 }
-.col img{
+
+.col img {
   height: 400px;
   width: 100%;
 }
 
-.card-body .card-text button{
-  display: inline-block;
-}
-nav{
-  padding-top: 3px;
-}
-.card-e{
-  
-  display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
-      gap: 70px;
-      margin-top: 120px;
-      margin-left: 30px;
-      margin-right: 30px;
+.col a {
+  color: white;
+  text-decoration: none;
 }
 
-@media (max-width:900px){
-  .carrosel .container img{
+.card-body .card-text button {
+  display: inline-block;
+}
+
+nav {
+  padding-top: 3px;
+}
+
+.card-e {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+  gap: 70px;
+  margin-top: 120px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.card-e img {
+  width: 100%;
+  height: 250px;
+}
+
+.card-e a {
+  color: #ee964b;
+  text-decoration: none;
+}
+
+.card-body {
+  height: 250px;
+}
+
+@media (max-width: 900px) {
+  .carrosel .container img {
     width: 900px;
   }
 }
 @media (max-width: 600px) {
-  .carrosel .container img{
+  .carrosel .container img {
     width: 600px;
   }
 }
+/*# sourceMappingURL=style.css.map */
+
 /*# sourceMappingURL=style.css.map */

@@ -2,37 +2,28 @@
 
      <div class="carrosel" id="carrossel">
         <div class="container" id="img">
-            <a href="jogos/game" target="blank">
+            <a href="jogos/space" target="blank">
                 <img src="imagens/bannerjogo.png" alt="Space Soldier">
             </a>
             <a href="jogos/jglm" target="blank">
                 <img src="imagens/fase1.jpeg" alt="LeMinotaur"></a>
             <a href="jogos/Parabellum" target="blank">
                 <img src="imagens/parabellum2.jpeg" alt="Parabellum"></a>
-            <a href="jogos/game" target="blank">
+            <a href="jogos/space" target="blank">
                 <img src="imagens/headerlogo1.png" alt="Space Soldier"></a>
             <a href="jogos/Parabellum" target="blank">
                 <img src="imagens/parabellum1.jpeg" alt="Parabellum"></a>
             <a href="jogos/jglm" target="blank">
-                <img src="imagens/fase2.jpeg" alt="Álbum"></a>
-            <a href="https://open.spotify.com/user/22lkbi57gdgwd6j45sa7ncmla?si=sznv6mxASgeJ6gSc_GYfRQ" target="blank">
-                <img src="imagens/larks.jpeg" alt="Álbum"></a>
-            <a href="https://open.spotify.com/user/22lkbi57gdgwd6j45sa7ncmla?si=sznv6mxASgeJ6gSc_GYfRQ" target="blank">
-                <img src="imagens/lysflath.jpeg" alt="Álbum"></a>
-            <a href="https://open.spotify.com/user/22lkbi57gdgwd6j45sa7ncmla?si=sznv6mxASgeJ6gSc_GYfRQ" target="blank">
-                <img src="imagens/madvillany.jpeg" alt="Álbum"></a>
-            <a href="https://open.spotify.com/user/22lkbi57gdgwd6j45sa7ncmla?si=sznv6mxASgeJ6gSc_GYfRQ" target="blank">
-                <img src="imagens/MrMorale.jpeg" alt="Álbum"></a>
-            <a href="https://open.spotify.com/user/22lkbi57gdgwd6j45sa7ncmla?si=sznv6mxASgeJ6gSc_GYfRQ" target="blank">
-                <img src="imagens/ncudaod.jpeg" alt="Álbum"></a>
-            <a href="https://open.spotify.com/user/22lkbi57gdgwd6j45sa7ncmla?si=sznv6mxASgeJ6gSc_GYfRQ" target="blank">
-                <img src="imagens/okcomputer.jpeg" alt="Álbum"></a>
-            <a href="https://open.spotify.com/user/22lkbi57gdgwd6j45sa7ncmla?si=sznv6mxASgeJ6gSc_GYfRQ" target="blank">
-                <img src="imagens/thebends.jpeg" alt="Álbum"></a>
-            <a href="https://open.spotify.com/user/22lkbi57gdgwd6j45sa7ncmla?si=sznv6mxASgeJ6gSc_GYfRQ" target="blank">
-                <img src="imagens/tomjobim.jpeg" alt="Álbum"></a>
-            <a href="https://open.spotify.com/user/22lkbi57gdgwd6j45sa7ncmla?si=sznv6mxASgeJ6gSc_GYfRQ" target="blank">
-                <img src="imagens/ye.jpeg" alt="Álbum"></a>
+                <img src="imagens/fase2.jpeg" alt="LeMinotaur"></a>
+            <a href="jogos/game" target="blank">
+                <img src="imagens/enemy war.png" alt="Enemy war"></a>
+            <a href="https://store.steampowered.com/app/2215430/Ghost_of_Tsushima_VERSO_DO_DIRETOR/" target="blank">
+                <img src="imagens/ghostbanner.webp" alt="Ghost of tsushima"></a>
+            <a href="jogos/game" target="blank">
+                <img src="imagens/foto5.png" alt="Enemy war"></a>
+            <a href="https://store.steampowered.com/app/632470/Disco_Elysium__The_Final_Cut/" target="blank">
+                <img src="imagens/discobanner.avif" alt="Disco elysium"></a>
+
 
         </div>
     </div>
@@ -42,7 +33,7 @@
   <div class="card-header">
     Jogos
   </div>
-  <div class="card-body">
+  <div class="card-body-h">
     <h5 class="card-title">Descrição dos jogos</h5>
     <p class="card-text">saiba mais dos jogos antes de jogar, suas histórias, controles, mecânicas, etc.</p>
     

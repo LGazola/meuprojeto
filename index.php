@@ -80,10 +80,10 @@
     <a href="https://wa.me/5544999968386">
     <ion-icon name="logo-whatsapp" size="large"></ion-icon>
   </a>
-  <a href="">
+  <a href="https://www.tiktok.com/@gazolao?_t=8nOHIZVCTMD&_r=1">
     <ion-icon name="logo-tiktok" size="large"></ion-icon>
   </a>
-  <a href="">
+  <a href="https://discord.com/invite/96AJTDRX">
     <ion-icon name="logo-discord" size="large"></ion-icon>
   </a>
     <a href="https://github.com/LGazola">
