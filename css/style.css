@@ -123,8 +123,10 @@ main {
 .col{
   padding-top: 30px;
   padding-bottom: 10px;
-
-
+}
+.col img{
+  height: 400px;
+  width: 100%;
 }
 
 .card-body .card-text button{

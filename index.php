@@ -62,7 +62,7 @@
   </header>
   <main>
     <?php
-    //print_r($_GET);
+    
     
     $pg = $_GET["pg"] ?? "home";
     $pg = "paginas/{$pg}.php";

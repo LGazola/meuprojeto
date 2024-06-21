@@ -2,19 +2,19 @@
 
      <div class="carrosel" id="carrossel">
         <div class="container" id="img">
-            <a href="https://open.spotify.com/user/22lkbi57gdgwd6j45sa7ncmla?si=sznv6mxASgeJ6gSc_GYfRQ" target="blank">
+            <a href="jogos/game" target="blank">
                 <img src="imagens/bannerjogo.png" alt="Space Soldier">
             </a>
-            <a href="https://open.spotify.com/user/22lkbi57gdgwd6j45sa7ncmla?si=sznv6mxASgeJ6gSc_GYfRQ" target="blank">
+            <a href="jogos/jglm" target="blank">
                 <img src="imagens/fase1.jpeg" alt="LeMinotaur"></a>
-            <a href="https://open.spotify.com/user/22lkbi57gdgwd6j45sa7ncmla?si=sznv6mxASgeJ6gSc_GYfRQ" target="blank">
+            <a href="jogos/Parabellum" target="blank">
+                <img src="imagens/parabellum2.jpeg" alt="Parabellum"></a>
+            <a href="jogos/game" target="blank">
                 <img src="imagens/headerlogo1.png" alt="Space Soldier"></a>
-            <a href="https://open.spotify.com/user/22lkbi57gdgwd6j45sa7ncmla?si=sznv6mxASgeJ6gSc_GYfRQ" target="blank">
-                <img src="imagens/fase2.jpeg" alt="LeMinotaur"></a>
-            <a href="https://open.spotify.com/user/22lkbi57gdgwd6j45sa7ncmla?si=sznv6mxASgeJ6gSc_GYfRQ" target="blank">
-                <img src="imagens/courtofkingcrimson.jpeg" alt="Álbum"></a>
-            <a href="https://open.spotify.com/user/22lkbi57gdgwd6j45sa7ncmla?si=sznv6mxASgeJ6gSc_GYfRQ" target="blank">
-                <img src="imagens/deathconsciousness.jpeg" alt="Álbum"></a>
+            <a href="jogos/Parabellum" target="blank">
+                <img src="imagens/parabellum1.jpeg" alt="Parabellum"></a>
+            <a href="jogos/jglm" target="blank">
+                <img src="imagens/fase2.jpeg" alt="Álbum"></a>
             <a href="https://open.spotify.com/user/22lkbi57gdgwd6j45sa7ncmla?si=sznv6mxASgeJ6gSc_GYfRQ" target="blank">
                 <img src="imagens/larks.jpeg" alt="Álbum"></a>
             <a href="https://open.spotify.com/user/22lkbi57gdgwd6j45sa7ncmla?si=sznv6mxASgeJ6gSc_GYfRQ" target="blank">
